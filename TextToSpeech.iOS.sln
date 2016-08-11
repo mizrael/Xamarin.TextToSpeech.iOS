@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeech.iOS", "TextToSpeech.iOS\TextToSpeech.iOS.csproj", "{7805F06A-8F30-4103-B385-728B922CD109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7805F06A-8F30-4103-B385-728B922CD109}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{7805F06A-8F30-4103-B385-728B922CD109}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{7805F06A-8F30-4103-B385-728B922CD109}.Release|iPhone.ActiveCfg = Release|iPhone
+		{7805F06A-8F30-4103-B385-728B922CD109}.Release|iPhone.Build.0 = Release|iPhone
+		{7805F06A-8F30-4103-B385-728B922CD109}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{7805F06A-8F30-4103-B385-728B922CD109}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{7805F06A-8F30-4103-B385-728B922CD109}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{7805F06A-8F30-4103-B385-728B922CD109}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
